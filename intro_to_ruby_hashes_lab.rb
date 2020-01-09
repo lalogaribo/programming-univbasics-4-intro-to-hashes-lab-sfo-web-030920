@@ -10,7 +10,7 @@ def my_hash
     name: 'Eduardo',
     age: 29
   }
-  
+  hash[:name]
 end
 
 def pioneer
